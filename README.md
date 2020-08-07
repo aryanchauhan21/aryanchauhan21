@@ -1,7 +1,7 @@
 ### Hi there, My name is Aryan Chauhan and i love to create. 👋
 #### I am a full time undergraduate student of Mathematics and Computing at delhi technological university.
 
-- ⚡ I love to make Android apps giving life to my ideas. I also do backend web development using Django. (I just love the simplicity of it)
+- ⚡ I love to make Android apps giving life to my ideas. I also do backend web development using Django. (I love the simplicity of it)
 - 🔭 I’m currently working on honing my DS and Algo skills and also on Android App for my website Write Right.
 - 🌱 I’m always learning new skills empowering myself to create whatever i want.
 
