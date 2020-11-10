@@ -2,7 +2,7 @@
 #### I am a full time undergraduate student of Mathematics and Computing at Delhi Technological University.
 
 - ⚡ I love to make Android apps giving life to my ideas. I also do backend web development using Django. (I love the simplicity of it)
-- 🔭 I’m currently working on honing my DS and Algo skills and also on Android App for my website Write Right.
+- 🔭 I’m currently working on honing my DS and Algo skills and also on some interesting Android projects.
 - 🌱 I’m always learning new skills empowering myself to create whatever i want.
 
 ### Connect with me:
